@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553319560618",
+    "project_id": "felixfirstapp",
+    "storage_bucket": "felixfirstapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553319560618:android:2e1fb13e0cbaec20b7a7d3",
+        "android_client_info": {
+          "package_name": "com.example.felixfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553319560618-hnb134v018mv5qagnm787j2kemrt39en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOgrMKQrfsBSclnerdxtMdm0EZXCEMic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553319560618-hnb134v018mv5qagnm787j2kemrt39en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
